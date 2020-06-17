@@ -1,0 +1,18 @@
+header{
+    background-color:#777777;
+    width: 1500px;
+    height: 80px;;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 15px;
+    
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(50, 60, 205);
+}
+.btn{
+    background-color:rgb(51, 255, 0);
+}
